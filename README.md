@@ -1,1 +1,5 @@
-# projeto3-Front-End
+Terceiro projeto realizado através do curso Full stack master DANKI CODE
+
+Front-End.
+
+Site totalmente responsivo.
